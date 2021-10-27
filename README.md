@@ -1,19 +1,10 @@
-# Foreign Tourist Arrivals to Colombia by Airplane 2018-2021
+# Foreign Tourist Arrivals to Colombia by Airplane 2017-2021.
 
-## After March of 2020 when the country started with many classes of restrictions to visitors from all parts of the world, Do foreign tourism recovered to pre-pandemic levels? There are good perspectives?
+## Data from Migracion Colombia (Immigration Institute) is colected to study the behavior of the total number of foreign tourism arriving to the country by airplane and the Sun&beach international visitors who stayed in the principal cities of the Caribbean (Cartagena, Barranquilla, San Andres, Santa Marta) from 2017 to September of 2021. 
 
-## Beach and Sun tourism in the Caribbean of Colombia (considered for a linear model) is measured by international visitors who stayed in the main cities of that region (Cartagena, Barranquilla, Santa Marta and San Andres).
-
-## 
+## Se recolectan datos de Migracion Colombia (Instituto de Inmigración) para estudiar el comportamiento del número total de turismo extranjero que llega al país en avión y de los visitantes internacionales de Sol y Playa que se hospedaron en las principales ciudades del Caribe (Cartagena, Barranquilla, San Andrés, Santa Marta) de 2017 a septiembre de 2021.
 
 Exploring data, correlations, visualizations, machine learning (linear regression) and more!
 
 
-
-
-
-
-
-
-## *Data from Migración Colombia
 
